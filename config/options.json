@@ -117,7 +117,7 @@
             "color":"gray"
         },
 
-        "roles":[],
+        "roles":["1424341991604486224"],
         "mode":"add",
         "removeRolesOnAdd":[],
         "addOnMemberJoin":false
