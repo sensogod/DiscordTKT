@@ -4,21 +4,6 @@
 ---
 
 <p align="center">
-<img src="https://apis.dj-dj.be/cdn/openticket/logo.png" alt="Open Ticket" width="650px">
-<br>Powered By<br>
-<img src="https://apis.dj-dj.be/cdn/opendiscord/logo.png" alt="Open Ticket" width="170px"><br>
-<a href="https://discord.com/invite/26vT9wt3n3"><img alt="Discord Invite Link" src="https://img.shields.io/badge/discord-support%20server-5865F2.svg?style=flat-square&logo=discord"></img></a>
-<a href="https://github.com/open-discord-bots/open-ticket/releases/tag/v4.1.1"><img alt="Open Ticket Version" src="https://img.shields.io/badge/version-4.1.1-brightgreen.svg?style=flat-square"></img></a>
-<a href="https://otdocs.dj-dj.be"><img alt="Open Ticket Documentation" src="https://img.shields.io/badge/discord.js-v14-CB3837.svg?style=flat-square&logo=npm"></img></a>
-<a href="https://github.com/open-discord-bots/open-ticket/blob/main/LICENSE"><img alt="Open Ticket License" src="https://img.shields.io/badge/license-GPL%203.0-important.svg?style=flat-square"></img></a>
-<a href="https://otdocs.dj-dj.be"><img alt="Open Ticket Stars" src="https://img.shields.io/github/stars/djj123dj/open-ticket?color=yellow&label=stars&logo=github&style=flat-square"></img></a>
-<br>
-<a href="https://github.com/sponsors/DJj123dj"><img alt="Sponsor DJj123dj" src="https://img.shields.io/badge/sponsor-DJj123dj-ea4aaa?style=flat-square&logo=githubsponsors"></img></a>
-<a href="https://hub.docker.com/repository/docker/djj123dj/open-ticket"><img alt="Open Ticket supports Docker!" src="https://img.shields.io/badge/docker-supported-2496ED?style=flat-square&logo=docker"></img></a>
-<a href=".eggs/README.md"><img alt="Open Ticket supports Pterodactyl Eggs!" src="https://img.shields.io/badge/pterodactyl-supported-10539F?style=flat-square&logo=pterodactyl"></img></a>
-</p>
-
-<p align="center">
 Open Ticket is the most advanced & customisable discord ticket bot available! You are able to customise up to 300+ settings and aspects! This includes <code>Html Transcripts</code>, <code>Advanced Plugins</code>, <code>Custom Embeds</code>, <code>Questions/Modals</code>, <code>Stats</code> & more!
 The bot is translated in more than <code>36 Languages</code> and has been battle tested in large Discord servers! If you need any help, feel free to join our <a href="https://discord.dj-dj.be">discord server</a>!
 </p>
