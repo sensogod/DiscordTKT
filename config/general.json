@@ -9,7 +9,7 @@
     "tokenFromENV":true,
 
     "mainColor":"#f8ba00",
-    "language":"portuguese",
+    "language":"portuguese", 
     "prefix":"!ticket ",
     "serverId":"1424279946662252627",
     "globalAdmins":["1424341991604486224"],
