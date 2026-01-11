@@ -6,7 +6,7 @@
     },
     
     "token":"MTQ2MDAzMjk4OTMxNTYwMDUwOA.GUZ-eE.ZOSTZFeS4hLnLokKyPOsbw_EqBWAu7_usdcDAY",
-    "tokenFromENV":false,
+    "tokenFromENV":true,
 
     "mainColor":"#f8ba00",
     "language":"portuguese", 
