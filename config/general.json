@@ -6,7 +6,7 @@
     },
     
     "token":"",
-    "tokenFromENV":true,
+    "tokenFromENV":true, 
 
     "mainColor":"#f8ba00",
     "language":"portuguese", 
