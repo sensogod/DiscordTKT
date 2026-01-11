@@ -19,8 +19,8 @@
 
     "status":{
         "enabled":true,
-        "type":"listening",
-        "mode":"online",
+        "type":"playing",
+        "mode":"dnd",
         "text":"/help",
         "state":""
     },
@@ -34,7 +34,7 @@
         "disableVerifyBars":false,
         "useRedErrorEmbeds":true,
         "alwaysShowReason":false,
-        "emojiStyle":"before",
+        "emojiStyle":"after",
         "pinEmoji":"📌",
         
         "replyOnTicketCreation":true,

@@ -7,7 +7,7 @@
 
         "button":{
             "emoji":"🎫",
-            "label":"question (or leave empty)",
+            "label":"question",
             "color":"blue"
         },
 
@@ -18,13 +18,13 @@
 
         "channel":{
             "prefix":"question-",
-            "suffix":"user-name",
+            "suffix":"user-id",
             "category":"",
             "closedCategory":"",
             "backupCategory":"",
             "claimedCategory":[
             ],
-            "topic":"This is the topic of this ticket channel and is visible to everyone! (or leave empty)"
+            "topic":"This is the topic of this ticket channel and is visible to everyone!"
         },
         
         "dmMessage":{
@@ -34,10 +34,10 @@
                 "enabled":false,
                 "title":"Embed Title! (or leave empty)",
                 "description":"Description (or leave empty)",
-                "customColor":"#f8ab00 (or leave empty)",
+                "customColor":"#f8ab00",
 
-                "image":"https://www.example.com/image.png (or leave empty)",
-                "thumbnail":"https://www.example.com/image.png (or leave empty)",
+                "image":"",
+                "thumbnail":"",
                 "fields":[
                     {"name":"field name","value":"field value","inline":false}
                 ],
@@ -114,11 +114,11 @@
         "button":{
             "emoji":"📢",
             "label":"Update Ping",
-            "color":"blue"
+            "color":"gray"
         },
 
         "roles":[],
-        "mode":"add&remove",
+        "mode":"add",
         "removeRolesOnAdd":[],
         "addOnMemberJoin":false
     }

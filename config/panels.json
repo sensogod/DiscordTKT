@@ -11,13 +11,13 @@
             "title":"Tickets:",
             "description":"Create a ticket by clicking one of the buttons below!",
             
-            "customColor":"#f8ab00",
+            "customColor":"#f8ba00",
             "url":"",
 
             "image":"",
             "thumbnail":"",
             
-            "footer":"Open Ticket v4.1.1 (or leave empty)",
+            "footer":"Open Ticket v4.1.1",
             "fields":[
                 {"name":"field name","value":"field value","inline":false}
             ],
@@ -29,7 +29,7 @@
             "enableMaxTicketsWarningInText":false,
             "enableMaxTicketsWarningInEmbed":true,
 
-            "describeOptionsLayout":"normal",
+            "describeOptionsLayout":"simple",
             "describeOptionsCustomTitle":"",
             "describeOptionsInText":false,
             "describeOptionsInEmbedFields":true,

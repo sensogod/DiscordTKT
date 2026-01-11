@@ -12,26 +12,26 @@
         "mode":"html OR text"
     },
     "embedSettings":{
-        "customColor":"#f8ab00",
+        "customColor":"#f8ba00",
         "listAllParticipants":false,
         "includeTicketStats":false
     },
     "textTranscriptStyle":{
-        "layout":"normal",
+        "layout":"simple",
         "includeStats":true,
         "includeIds":false,
         "includeEmbeds":true,
         "includeFiles":true,
         "includeBotMessages":true,
 
-        "fileMode":"channel-name",
+        "fileMode":"channel-id",
         "customFileName":"this-is-a-transcript"
     },
     "htmlTranscriptStyle":{
         "background":{
             "enableCustomBackground":false,
-            "backgroundColor":"#f8ba00 (or leave empty)",
-            "backgroundImage":"https://www.example.com/image.png (or leave empty)" 
+            "backgroundColor":"#f8ba00",
+            "backgroundImage":"" 
         },
         "header":{
             "enableCustomHeader":false,
